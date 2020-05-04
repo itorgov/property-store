@@ -13,4 +13,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::resource('properties', 'PropertiesController')->only('index');
+Route::apiResource('properties', 'PropertiesController')->only('index');
