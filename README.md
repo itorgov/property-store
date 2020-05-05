@@ -1,5 +1,11 @@
 # Property Store
 
+<p align="center">
+    <a href="https://github.styleci.io/repos/261395670">
+        <img src="https://github.styleci.io/repos/261395670/shield?branch=master" alt="StyleCI">
+    </a>
+</p>
+
 ## About
 
 This app is an example of my work.
